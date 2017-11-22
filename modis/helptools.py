@@ -1,5 +1,3 @@
-import tkinter as tk
-import tkinter.ttk as ttk
 
 from collections import OrderedDict
 import json as _json
